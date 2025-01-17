@@ -1,1 +1,3 @@
-file.pdf
+__pycache__
+.doit.db
+target
