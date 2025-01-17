@@ -1,7 +1,7 @@
 from pathlib import Path
 from subprocess import run
 
-from evilfunctools import partial
+from functools import partial
 
 ROOT = Path(__file__).parent
 TARGET = ROOT / "target"
